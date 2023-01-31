@@ -1,3 +1,6 @@
+<a href="https://app.daily.dev/Bernard"><img src="https://api.daily.dev/devcards/46abf4eb30ec4af081b192d67dac23e9.png?r=63f" width="400" alt="Bernardkwesi's Dev Card"/></a>
+
+
 - 👋 Hi, I’m @BernardKwesi
 - 👀 I’m interested in Web Development, Mobile App Development and Block Chain
 - 🌱 I’m currently learning Mobile App Development with flutter 
