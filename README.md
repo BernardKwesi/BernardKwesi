@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/Bernard"><img src="https://github.com/BernardKwesi/BernardKwesi/blob/main/devcard.svg" width="400" alt="Bernard's Dev Card"/></a>
+<a href="https://app.daily.dev/Bernard"><img src="https://github.com/BernardKwesi/BernardKwesi/blob/master/devcard.svg" width="400" alt="Bernard's Dev Card"/></a>
 
 
 - 👋 Hi, I’m @BernardKwesi
