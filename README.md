@@ -6,7 +6,7 @@
 - 👀 I’m interested in Web Development, Mobile App Development and Block Chain
 - 🌱 I’m currently learning Mobile App Development with flutter 
 - 💞️ I’m looking to collaborate on any nodejs,laravel,flutter,dotnet project
-- 📫 How to reach me bernarddormon13@gmail.com on gmail
+- 📫 How to reach me bernarddormon31@gmail.com on gmail
 
 <!---
 BernardKwesi/BernardKwesi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
